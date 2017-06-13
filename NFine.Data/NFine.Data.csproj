@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DBContext\NFineDbContext.cs" />
+    <Compile Include="Extensions\CommandInfo.cs" />
     <Compile Include="Extensions\DbHelper.cs" />
     <Compile Include="Extensions\EntityInterfaceExtensions.cs" />
     <Compile Include="Repository\IRepositoryBase.cs" />
